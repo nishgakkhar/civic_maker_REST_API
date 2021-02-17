@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/nishgakkhar/civic_maker_REST_API#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
   }
 }
